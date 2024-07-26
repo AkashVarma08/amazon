@@ -1,0 +1,13 @@
+.f{
+    display: flex;
+    
+}
+.ma{
+    margin: 15%;
+}
+
+@media (max-width:550px) {
+    div .f{
+        flex-wrap: wrap;
+    }
+}
